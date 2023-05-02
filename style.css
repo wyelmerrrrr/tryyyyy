@@ -1,0 +1,195 @@
+
+body {
+    background-image:url('https://t3.ftcdn.net/jpg/01/91/95/30/360_F_191953033_gehQATeDoh5z6PyRDbeKyBZuS83CjMEF.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
+    background-size: cover;
+    margin: auto;
+    height: 100%;
+   
+}
+
+
+
+h1{
+    font-style: oblique;
+}
+
+.intro{
+  
+    color: black    ;
+    font-style: inherit;
+    font-family: 'Marcellus SC'; font-size: 40px;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 700px;
+    position: relative;
+}
+
+ .Top{
+  font-style: inherit;
+  font-family: 'Marcellus SC';
+  font-size: 20px;
+  position: absolute;
+  left: 600px;
+ top: 39px;
+ }
+.Top1{
+  font-style: inherit;
+  font-family: 'Marcellus SC';
+  font-size: 20px;
+  position: absolute;
+  left: 745px;
+ top: 39px;
+}
+.Top2{
+  font-style: inherit;
+  font-family: 'Marcellus SC';
+  font-size: 20px;
+  position: absolute;
+  left: 860px;
+ top: 39px;
+}
+.Top3{
+  font-style: inherit;
+  font-family: 'Marcellus SC';
+  font-size: 20px;
+  position: absolute;
+  left: 955px;
+ top: 39px;
+}
+
+hr.new1 {
+    border-top: 1px solid red;
+    margin-left: 20px;
+    margin-right: 725px;
+   
+
+  }
+
+.whole{
+position: absolute;
+   
+}
+.Mess{
+    position: absolute;
+    text-align: justify;
+    font-family: 'Roboto'; 
+    margin-bottom: 430px;
+    margin-right: 725px;
+    font-size: small;
+    line-height: 20px;
+    padding-top: 10px;
+    padding-left: 20px;
+ 
+}
+.img {
+   
+ 
+    width: 695px;
+    height: 400px;
+    float: right;
+    padding-left: 555px;
+    padding-right: 20px;
+      position: relative ;
+  }
+
+
+  .Mess2{
+    position: absolute;
+    text-align: justify;
+    font-family: 'Roboto'; 
+    margin-right: 725px;
+    font-size: small;
+    line-height: 20px;
+    padding-top: 240px;
+    padding-left: 20px;
+    
+  }
+  .Mess3{
+    position: absolute;
+    text-align: justify;
+    font-family: 'Roboto'; 
+    font-size: small;
+    line-height: 20px;
+    padding-top: 410px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  hr.new2 {
+    border-top: 1px solid red;
+    margin-left: 20px;
+    margin-right: 725px;
+    margin-top: 410px;
+    position: static;
+    
+  }
+  .End{
+    font-family: 'Marcellus SC'; font-size: 30px;
+  }
+  @media (max-width: 480px) {
+    header {
+     height: 100dvh;
+    }
+    .intro{
+    
+      margin-right: 0px;
+      position: relative;
+      font-size: 20px;
+    }
+    
+    .Top{
+      top: 90px;
+      left: 380px;
+    }
+    .Top1{
+      top: 90px;
+      left: 520px;
+    }
+    .Top2{
+      top: 90px;
+      left: 635px;
+    }
+    .Top3{
+      top: 90px;
+      left: 730px;
+    }
+    .img{
+      width: 500px;
+      height: 430px;
+      padding-left: 300px;
+    padding-right: 20px;
+    }
+
+    .Mess{
+      
+  
+      margin-right: 530px;
+      font-size: small;
+      line-height: 20px;
+      padding-top: 10px;
+      padding-left: 20px;
+   
+  }
+  .Mess2{
+  
+    margin-right: 30px;
+    font-size: small;
+    line-height: 20px;
+    padding-top: 440px;
+    padding-left: 20px;
+    
+  }
+  .Mess3{
+    
+    font-size: small;
+    line-height: 20px;
+    padding-top: 560px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+}  
+  
