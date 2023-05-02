@@ -43,6 +43,7 @@ h1{
   position: absolute;
   left: 745px;
  top: 39px;
+
 }
 .Top2{
   font-style: inherit;
@@ -71,6 +72,7 @@ hr.new1 {
 
 .whole{
 position: absolute;
+
    
 }
 .Mess{
@@ -132,6 +134,7 @@ position: absolute;
   @media (max-width: 480px) {
     header {
      height: 100dvh;
+     touch-action: pan-y;
     }
     .intro{
     
